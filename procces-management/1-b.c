@@ -1,6 +1,4 @@
-/* Bilal Özcan
- * 18120205035
- * 1-b.c
+/* 1-b.c
  * parent process'in "a", child process'in "B" yazdırdığı bir programda 
  * program çıktısı BBBBBBBBBBBBBBBBBBBBBBaaaaaaaaaaaaaaaaaaaaaaaaaa olacak
  * şekilde çıktı veren program*/
