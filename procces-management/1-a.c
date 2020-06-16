@@ -1,9 +1,7 @@
-/* Bilal Özcan
- * 18120205035
- * 1-a.c
+/* 1-a.c
  * parent process'in "a", child process'in "B" yazdırdığı bir programda 
  * program çıktısı aBaBaBaBaBaBaBaB olacak şekilde çıktı veren program
- * Emirhan Yılmaz ve Mehmet Arsay arkadaşlar ile fikir alışverişinde bulundum*/
+ */
 
 #include <sys/types.h> //pid_t type'ı için gerekli kütüphane
 #include <unistd.h> //fork() için gerekli kütüphane
