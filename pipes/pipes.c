@@ -1,7 +1,4 @@
-/* Bilal Özcan
- * 18120205035
- * hw5.c
- * "$ ls -1 | cut -d'.' -f1 | sort | uniq | tee dirents" terminal komutunun
+/* "$ ls -1 | cut -d'.' -f1 | sort | uniq | tee dirents" terminal komutunun
  * C programında exec ve pipe sistem çağrıları ile gerçekleştirilmesi*/
 
 #define _GNU_SOURCE
