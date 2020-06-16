@@ -1,6 +1,4 @@
-/* Bilal Özcan
- * 18120205035
- * 2-b.c
+/* 2-b.c
  * parent process'in "a", 1.child process'in "B" ve 2.child process'in "c"
  * yazdırdığı bir programda program çıktısı cccccccccccccccccccccccccc
  * aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaBBBBBBBBBBBBBBBBBBBBBBBBBBB...
